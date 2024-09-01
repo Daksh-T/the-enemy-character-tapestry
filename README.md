@@ -1,2 +1,2 @@
-# the-enemy-character-tapestry
-Character Tapestry react app for school project work
+# Character Tapestry: The Enemy
+Character Tapestry React app for school project work
